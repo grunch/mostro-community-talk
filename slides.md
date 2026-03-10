@@ -127,7 +127,7 @@ Guión sugerido (60-90s):
 <div class="p-4 border border-yellow-700 rounded-lg bg-yellow-950/20">
   <div class="flex items-center gap-3 mb-2">
     <img src="/mostrix-logo.png" class="h-10 w-10 rounded" />
-    <div class="font-bold text-yellow-300">mostrix (crítico)</div>
+    <div class="font-bold text-yellow-300">mostrix</div>
   </div>
   <div class="text-sm text-gray-300">Panel más completo hoy para administración y disputas.</div>
   <div class="text-xs font-mono text-yellow-300 mt-2">github.com/MostroP2P/mostrix</div>
@@ -136,7 +136,7 @@ Guión sugerido (60-90s):
 <div class="p-4 border border-yellow-700 rounded-lg bg-yellow-950/20">
   <div class="flex items-center gap-3 mb-2">
     <img src="/mostro-watchdog.png" class="h-10 w-10 rounded" />
-    <div class="font-bold text-yellow-300">mostro-watchdog (crítico)</div>
+    <div class="font-bold text-yellow-300">watchdog</div>
   </div>
   <div class="text-sm text-gray-300">Bot Telegram: alerta de disputas en tiempo real.</div>
   <div class="text-xs font-mono text-yellow-300 mt-2">github.com/MostroP2P/mostro-watchdog</div>
