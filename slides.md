@@ -58,13 +58,13 @@ Nota: Mantener ritmo. Si se extiende Q&A, recortar ronda de presentaciones a 2 p
 -->
 <div class="mt-8 text-left max-w-3xl mx-auto text-lg">
 
-1. Bienvenida e introducción (2 min)  
-2. Qué es Mostro y cómo funciona (5 min)  
-3. Qué implica correr un nodo (4 min)  
-4. Requisitos técnicos + instalación (4 min)  
-5. Presentaciones de comunidades (5 min)  
-6. Preguntas y respuestas (3 min)  
-7. Próximos pasos y cierre (2 min)
+1. Bienvenida e introducción
+2. Qué es Mostro y cómo funciona
+3. Qué implica correr un nodo
+4. Requisitos técnicos + instalación
+5. Presentaciones de comunidades
+6. Preguntas y respuestas
+7. Próximos pasos y cierre
 
 </div>
 
