@@ -15,7 +15,7 @@ fonts:
 
 # Mostro Community Talk #1 {.font-mono .text-green-400}
 
-## First call with Spanish-speaking communities {.text-gray-400 .font-mono}
+## First call with English-speaking communities {.text-gray-400 .font-mono}
 
 <div class="mt-10 flex justify-center items-center gap-4">
   <img src="/mostro-node.png" class="h-20 rounded-lg" />
