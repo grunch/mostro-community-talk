@@ -2,6 +2,10 @@
 
 Primera llamada con comunidades hispanohablantes de `mostro.community`.
 
+**Available in:**
+- 🇪🇸 Spanish: [mostro.community](https://mostro.community) (default)
+- 🇬🇧 English: [mostro.community/en/](https://mostro.community/en/)
+
 ## Setup
 
 ```bash
@@ -12,8 +16,11 @@ npm install
 ## Run
 
 ```bash
+# Spanish version
 npm run dev
-# Abre en http://localhost:3030
+
+# English version
+npm run dev:en
 ```
 
 ## Presenter Mode
@@ -28,11 +35,31 @@ Presiona `P` en el navegador para abrir presenter mode (notas + timer + preview)
 - `D` — dark/light toggle
 - `F` — fullscreen
 
+## Build
+
+```bash
+# Build both versions
+npm run build
+
+# Build Spanish only
+npm run build:es
+
+# Build English only
+npm run build:en
+```
+
+Output:
+- `dist/` → Spanish version
+- `dist/en/` → English version
+
 ## Export to PDF
 
 ```bash
+# Spanish
 npm run export
-# Genera slides-export.pdf
+
+# English
+npm run export:en
 ```
 
 Si falta Chromium para exportar:
