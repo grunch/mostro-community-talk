@@ -26,7 +26,11 @@ jobs:
 
       - run: npm install
 
-      - run: npx slidev build --base /
+      - name: Build Spanish version
+        run: npx slidev build --base / --out dist
+
+      - name: Build English version
+        run: npx slidev build slides-en.md --base /en/ --out dist/en
 
       - run: cp CNAME dist/
 

@@ -25,6 +25,10 @@ fonts:
 mostro.community · 2026
 </div>
 
+<div class="abs-bl m-6">
+  <a href="/en/" class="text-xs text-gray-500 hover:text-green-400 font-mono">🇬🇧 English</a>
+</div>
+
 <!--
 Bienvenida corta. Objetivo: alinear visión + operación real.
 Duración total sugerida: 20-25 min + Q&A.

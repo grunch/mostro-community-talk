@@ -4,8 +4,12 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "slidev --open",
-    "build": "slidev build",
-    "export": "slidev export"
+    "dev:en": "slidev slides-en.md --open",
+    "build": "npm run build:es && npm run build:en",
+    "build:es": "slidev build --out dist",
+    "build:en": "slidev build slides-en.md --base /en/ --out dist/en",
+    "export": "slidev export",
+    "export:en": "slidev export slides-en.md"
   },
   "devDependencies": {
     "@slidev/cli": "^0.49.29",
