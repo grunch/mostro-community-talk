@@ -25,10 +25,6 @@ fonts:
 mostro.community · 2026
 </div>
 
-<div class="abs-bl m-6">
-  <a href="/" class="text-xs text-gray-500 hover:text-green-400 font-mono">🇪🇸 Español</a>
-</div>
-
 <!--
 Short welcome. Goal: align vision + real operation.
 Suggested total duration: 20-25 min + Q&A.
